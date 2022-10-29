@@ -4,4 +4,5 @@
     text-overflow: clip;
     bottom: 50px;
     visibility: hidden;
+    justify-self: start;
 }
