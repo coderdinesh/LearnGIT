@@ -38,5 +38,5 @@ testem.log
 /typings
 
 # System files
-
+*.css
 Thumbs.db
